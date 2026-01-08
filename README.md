@@ -10,13 +10,13 @@ A minimalist black and white portfolio website created for Cloud Computing Lab A
 - **Vercel**: Deploy using the button below or connect your GitHub repository
 
 
-## 👤 Author
+##  Author
 
 **Lakshasri S**  
 SRN: PES1UG23CS322  
 PES University
 
-## 📝 License
+##  License
 
 This project is created for educational purposes as part of Cloud Computing Lab Activity.
 
